@@ -45,29 +45,64 @@ body {
   font-size: 56px;
   font-weight: 600;
   margin-bottom: 35px;
-  /* letter-spacing: 0.054em; */
 }
 .headedr_text {
   font-size: 16px;
   font-weight: 400;
   line-height: 24px;
   max-width: 437px;
-  /* letter-spacing: 0.069em; */
+
   margin-bottom: 47px;
 }
 .header_button {
   width: 194px;
   height: 60px;
 
+  font-family: "Montserrat-Regular", sans-serif;
   font-size: 16px;
   font-weight: 400;
   line-height: 24px;
   border: none;
-  padding: 18px 40px 18px 40px;
-  letter-spacing: 0.07em;
+  padding: 18px 40px 18px 39px;
+  /* letter-spacing: 0.07em; */
+}
+
+/* Block */
+
+.block {
+  text-align: center;
+  margin-bottom: 50px;
+}
+.block_title {
+  font-weight: 600;
+  font-size: 16px;
+  text-transform: uppercase;
+  letter-spacing: 3.3px;
+  margin-bottom: 15px;
+}
+.block-text {
+  font-size: 16px;
+  letter-spacing: 2px;
+  line-height: 24px;
+  font-weight: 400;
+  color: #9ca3af;
+  max-width: 465px;
+  margin: 0 auto;
 }
 
 /* Services */
+
+.services {
+}
+
+.services_items {
+}
+.item {
+}
+.services_items_img {
+}
+.services_items_title {
+}
 
 /* Media */
 
