@@ -131,9 +131,11 @@ body {
 }
 
 .block_title {
+  text-align: center;
 }
 
 .block-text {
+  margin-bottom: 80px;
 }
 
 .team_items {
@@ -142,6 +144,7 @@ body {
   max-width: 880px;
   margin: 0 auto;
   gap: 50px;
+  margin-bottom: 142px;
 }
 
 .team_item {
@@ -209,6 +212,7 @@ body {
   .header_button {
     width: 160px;
     font-size: 14px;
+    padding-inline: 15px;
   }
 }
 
